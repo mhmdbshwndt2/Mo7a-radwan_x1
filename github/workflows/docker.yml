@@ -2,7 +2,7 @@ name: Build and Push Docker Image
 
 on:
   push:
-    branches: [ "**" ]
+    branches: [ "*" ]
   workflow_dispatch:
 
 jobs:
@@ -24,4 +24,5 @@ jobs:
         with:
           context: .
           push: true
-              tags: radwan/Mo7a-dx:latest
+          tags: mhmdbshwndt2/Mo7a-dx:latest
+
