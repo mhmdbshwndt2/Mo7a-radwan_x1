@@ -24,7 +24,7 @@ jobs:
         with:
           context: .
           push: true
-              tags: radwan/Mo7a-dx:latest
+              tags: mhmdbshwndt/Mo7a-dx:latest
 
 
           
