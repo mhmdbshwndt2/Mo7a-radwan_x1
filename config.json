@@ -6,7 +6,8 @@
       "settings": {
         "clients": [
           {
-            "id": "​df137605-475a-408e-9013-33e595c6d837",
+            "id": "​9b1d4e77-8852-4c23-b1d9-5287f311c102
+",
             "level": 0
           }
         ],
@@ -16,7 +17,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/Radwan/Mo7a/Choo_4st"
+          "path": "/Radwan/Mo7a"
         }
       }
     }
